@@ -1,0 +1,8 @@
+openai
+nltk
+PyPDF2
+python-docx
+faiss-cpu
+numpy
+python-dotenv
+tkinter
