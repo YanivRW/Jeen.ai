@@ -130,3 +130,6 @@ python main.py
 3. **Overlap-Based Splitting**:
    - Splits text into fixed-size chunks with overlapping words to preserve context.
    - Useful for long, continuous text without clear boundaries.
+
+
+Enjoy the project!
