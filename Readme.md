@@ -17,8 +17,6 @@ The application features a **graphical user interface (GUI)** using Tkinter, all
 4. [Running the Program](#running-the-program)
 5. [How to Use the Application](#how-to-use-the-application)
 6. [Chunking Strategies](#chunking-strategies)
-7. [Troubleshooting](#troubleshooting)
-8. [Acknowledgements](#acknowledgements)
 
 ---
 
